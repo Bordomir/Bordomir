@@ -18,7 +18,9 @@
 
 ### 📌 Projects  
 Here are a few things I’ve worked on:
-- A variant of *"Stop the bus"* game, implemented in C++ using BSD sockets and Qt framework for the client GUI [(Repository)](https://github.com/Bordomir/SK2-Projekt-Gra)
+- A variant of *"Stop the bus"* game, implemented in C++ using BSD sockets and Qt framework for the client GUI
+  - [(Repository)](https://github.com/Bordomir/SK2-Projekt-Gra)
+  - [(Detailed desciption)](https://github.com/Bordomir/Bordomir/blob/main/projects/SK2-Projekt-Gra.md)
 - Mechanical clock animation created in C++ with OpenGL
 - Simple console application implementing game of *2048*, written in C++ as an example of object-oriented programming
 - A set of algorithms solving a modified Travelling Salesman Problem, implemented in C++
