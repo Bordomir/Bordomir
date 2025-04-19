@@ -5,12 +5,12 @@ A C++ project using BSD sockets for networking and Qt for the graphical client.
 
 [SK2-Projekt-Gra](https://github.com/Bordomir/SK2-Projekt-Gra)
 
-## 🧩 About the Project
+## About the Project
 
 This project is a variant of the multiplayer word game *"Stop the Bus"*, known in Poland as *"Państwa Miasta"*, where players race to submit words based on a randomly selected letter and six given categories.  
 It features a TCP server implemented with BSD sockets and a GUI client built using the Qt framework.
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 - Upon launching the client, the player enters a nickname and connects to the server.
 - Once connected, the player sees:
@@ -20,7 +20,7 @@ It features a TCP server implemented with BSD sockets and a GUI client built usi
 
 Players who join during an active round will start participating from the **next** round.
 
-### 🔤 Round Flow
+### Round Flow
 
 - The server randomly selects a letter.
 - Players must type words that begin with that letter in the following six categories:
@@ -37,7 +37,7 @@ Players who join during an active round will start participating from the **next
   - **Uniqueness** of answers
   - **Speed** of submission
 
-## 🔗 Client-Server Communication
+## Client-Server Communication
 
 The game uses TCP sockets for communication. The server is responsible for:
 - Managing connections and disconnections,
@@ -48,7 +48,7 @@ The client handles:
 - User input (nickname, answers)
 - Real-time display of the game state received from the server
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **C++** – server and client logic
 - **Qt** – GUI for the client
