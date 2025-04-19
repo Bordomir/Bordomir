@@ -25,7 +25,11 @@ Here are a few things I’ve worked on:
   - [(Repository)](https://github.com/JSzyba/CG-V-3D-Mechanical-Clock)
   - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/CG-V-3D-Mechanical-Clock.md)
 - Simple console application implementing game of *2048*, written in C++ as an example of object-oriented programming
+  - [(Repository)](https://github.com/Bordomir/console-2048-game)
+  - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/console-2048-game.md)
 - A set of algorithms solving a modified Travelling Salesman Problem, implemented in C++
+  - [(Repository)]()
+  - [(Detailed description)]()
 - Linefollower robot built from scratch, using a PID controller for precise path tracking
 - Air drums prototype developed using Raspberry Pi 4B as the central unit
 - CT scan simulator implemented in Python, simulating image reconstruction processes
