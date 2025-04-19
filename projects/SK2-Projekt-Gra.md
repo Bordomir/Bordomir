@@ -1,7 +1,7 @@
 # Multiplayer Word Game  
 A C++ project using BSD sockets for networking and Qt for the graphical client.
 
-## Repository name:
+## Repository
 
 [SK2-Projekt-Gra](https://github.com/Bordomir/SK2-Projekt-Gra)
 
