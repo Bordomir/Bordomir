@@ -1,7 +1,7 @@
 # Mechanical Clock Animation  
 A C++ and OpenGL project visualizing the inner workings of a mechanical pendulum clock.
 
-## Repository name:
+## Repository
 
 [CG-V-3D-Mechanical-Clock](https://github.com/JSzyba/CG-V-3D-Mechanical-Clock)
 
@@ -30,7 +30,7 @@ This project simulates a fully animated mechanical clock, including all key inte
 | W / A / S / D | Rotate the camera |
 | Z / C | Move camera forward and backward |
 | O | Toggle visibility of some clock parts |
-| left and right arrow keys | Rotate the clock |
+| Left / Right Arrow Keys | Rotate the clock around the Y‑axis |
 | I / K | Increase or decrease animation speed |
 
 ## Technologies Used
