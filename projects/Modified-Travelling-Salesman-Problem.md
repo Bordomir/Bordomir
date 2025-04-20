@@ -1,4 +1,4 @@
-# Modified TSP Solver - Project Summary
+# Modified TSP Solving Algorithms
 
 This project implements a set of algorithms in C++ to solve a variation of the **Travelling Salesman Problem (TSP)**.
 The problem requires finding the optimal set of closed paths in a weighted undirected graph that starts and ends at a specified node, while covering all other nodes under specific constraints.
