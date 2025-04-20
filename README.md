@@ -30,11 +30,15 @@ Here are a few things I’ve worked on:
 - A set of algorithms solving a modified Travelling Salesman Problem, implemented in C++
   - [(Repository)](https://github.com/Bordomir/Modified-Travelling-Salesman-Problem)
   - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/Modified-Travelling-Salesman-Problem.md)
-- Linefollower robot built from scratch, using a PID controller for precise path tracking
+- Linefollower robot built from scratch, using a PID controller for precise path tracking 
+  - [(Repository)](https://github.com/Bordomir/Linefollower)
+  - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/Linefollower.md)
+- Air drums prototype developed using Raspberry Pi 4B as the central unit
   - [(Repository)]()
   - [(Detailed description)]()
-- Air drums prototype developed using Raspberry Pi 4B as the central unit
 - CT scan simulator implemented in Python, simulating image reconstruction processes
+  - [(Repository)]()
+  - [(Detailed description)]()
 
 ### 🤝 Let's connect!  
 - 📧 Email: bartosz.slawomir.operacz@gmail.com
