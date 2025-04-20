@@ -37,8 +37,8 @@ Here are a few things I’ve worked on:
   - [(Repository)](https://github.com/deithh/Virtual-Drums)
   - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/Virtual-Drums.md)
 - CT scan simulator implemented in Python, simulating image reconstruction processes
-  - [(Repository)]()
-  - [(Detailed description)]()
+  - [(Repository)](https://github.com/onyxcherry/IwM)
+  - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/IwM.md)
 
 ### 🤝 Let's connect!  
 - 📧 Email: bartosz.slawomir.operacz@gmail.com
