@@ -34,8 +34,8 @@ Here are a few things I’ve worked on:
   - [(Repository)](https://github.com/Bordomir/Linefollower)
   - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/Linefollower.md)
 - Air drums prototype developed using Raspberry Pi 4B as the central unit
-  - [(Repository)]()
-  - [(Detailed description)]()
+  - [(Repository)](https://github.com/deithh/Virtual-Drums)
+  - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/Virtual-Drums.md)
 - CT scan simulator implemented in Python, simulating image reconstruction processes
   - [(Repository)]()
   - [(Detailed description)]()
