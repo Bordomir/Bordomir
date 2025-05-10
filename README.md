@@ -40,6 +40,8 @@ Here are a few things I’ve worked on:
   - [(Repository)](https://github.com/onyxcherry/IwM)
   - [(Detailed description)](https://github.com/Bordomir/Bordomir/blob/main/projects/IwM.md)
 
+ I'm currently developing Android mobile applications using **Kotlin** and **Jetpack Compose**.
+
 ### 🤝 Let's connect!  
 - 📧 Email: bartosz.slawomir.operacz@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bartosz-operacz-921682360/)
